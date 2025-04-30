@@ -1,0 +1,1 @@
+## Garou & Fera Backgrounds: Clarifications

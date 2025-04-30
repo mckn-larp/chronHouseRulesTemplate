@@ -1,0 +1,1 @@
+## Garou & Fera Combat & Mechanics: Clarifications

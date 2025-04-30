@@ -2,143 +2,97 @@
 
 -----
 
-Our chronicle thrives on **collaboration, respect, and shared storytelling**. Every scene, every interaction, and every moment of drama is made possible because of the players — and that includes our staff.
+This document defines your chronicle’s expectations for **player behavior**, **community values**, and **scene safety**. It is a framework meant to support a healthy shared-world environment that prioritizes collaborative storytelling, mutual respect, and creative freedom.
 
-This is a **shared environment**, built by the community for the community. Whether you’re a new face or a seasoned veteran, everyone is part of shaping the story. We value your contributions, creativity, and engagement.
+## Overview
 
-> **Staff members are players, too — with an expanded role.**
+[Insert a brief statement about your chronicle’s shared values and the importance of community-driven storytelling. Emphasize that storytellers and players work together, and that all participants shape the in-game world.]
 
-While staff may guide the story, arbitrate rules, or represent the world beyond your character, they are not infallible authorities. They’re fellow players who have taken on additional responsibilities to help build the best experience possible.
-
-We believe in:
-- **Open communication**
-- **Mutual respect**
-- **Shared accountability**
-- **Fair and fun play for all**
-
-This section is dedicated to you, the players — the lifeblood of MCKN. Here you'll find what you need to get started, stay involved, and thrive in our game world.
-
-Let’s tell an unforgettable story — together.
+> Example: “Our game runs on collaboration. Every player shapes the world, and every staff member is here to support—not control—that journey.”
 
 ## Code of Conduct
 
-> Our Code of Conduct is based on and fully supports the organization's code of conduct, available at [OWBN Code of Conduct](https://www.owbn.net/content/code-of-conduct).
+[State your commitment to a respectful, inclusive environment. Link or reference any larger organization code of conduct your chronicle follows.]
 
-At **MCKN**, we are committed to fostering a **respectful, inclusive, and collaborative environment** for all players, staff, and guests. The strength of our chronicle lies in the shared passion we all bring to the World of Darkness — and in the way we treat one another both in and out of character.
+**We believe in:**
+- [Example: Respectful communication, even during disagreement]
+- [Example: Trust and good intentions]
+- [Example: Shared accountability and kindness]
 
 ## How We Treat Each Other
 
-- We speak and act with **respect**, even in disagreement.
-- We assume **good intentions**, not malice.
-- We understand that **miscommunications happen**, and we approach them with patience and a willingness to clarify.
-- We acknowledge that **everyone is here to have fun**, and that includes you.
+[Define expected interpersonal conduct. Focus on behavior both in and out of character.]
 
+- [Speak and act with empathy and awareness]
+- [Handle disagreements constructively]
+- [Value everyone’s time, safety, and participation]
 
 ## What We Believe
 
-- Every player deserves to feel **safe, welcome, and valued** at our game.
-- **In-character conflict** does not excuse **out-of-character hostility**.
-- Our community is at its best when we act in the spirit of **collaboration, not competition**.
-- **Accountability and forgiveness** both have a place in our culture.
+[Outline philosophical values your chronicle holds.]
 
-## Consent is Key
+- [In-character conflict ≠ out-of-character hostility]
+- [Creative conflict should deepen roleplay, not damage real-world relationships]
+- [Inclusivity and safety are more important than rules precision]
 
-**Character actions are never more important than real-life people.**
+## Consent and Scene Safety
 
-While we play in a *World of Darkness*, and this chronicle explores a wide range of intense and mature themes, we all share the responsibility to ensure that every player feels respected, safe, and comfortable. Individual boundaries vary, and it is the duty of both players and staff to uphold them.
+[Establish your chronicle’s policy for emotionally intense, violent, or controversial scenes.]
 
-During scenes involving emotionally charged, violent, or controversial subject matter, staff will perform *Check-Ins* with participants to ensure everyone is comfortable with the direction and tone of the roleplay. Likewise, in moments of PvP (Player vs. Player) conflict or distressing interactions, players may be asked to adjust the nature of their actions if they are making others uncomfortable. This is not about removing consequences—it’s about adapting them to keep the game safe, fun, and immersive for all.
-
+- [Describe if and how your staff uses content check-ins]
+- [Clarify the right to withdraw from any scene without needing to justify]
 
 ### Withdrawing Consent from a Scene
 
-At any time, a player may **withdraw their consent** from a scene, interaction, or environment they no longer wish to be part of. No justification is required. If this occurs:
+- [Players may step away at any time for any reason]
+- [STs will determine logical consequences for the character (if applicable)]
+- [Explain if characters go into “follow mode,” are removed, or retconned]
 
-- **The player will be allowed to step out immediately.**
-- **Storytellers will determine the results for the character**, including how they exit the scene and what consequences (if any) follow.
+> Consequences may still apply, but stepping away protects the **player**, not necessarily the **character**.
 
-These outcomes may include:
+## This Is Not a Loophole
 
-- The character being placed under “follow mode” (present but directed by STs).
-- Scene adjustments or retcons that preserve player well-being while keeping narrative flow.
-- Application of realistic consequences — **including injury, disappearance, or character death** — if such outcomes are appropriate for the in-game circumstances.
+[Reinforce that this policy is not a way to avoid in-game consequence, but a way to preserve player well-being.]
 
-Storytellers will always consider the narrative, context, and character history—but stepping away from a scene does **not** protect a character from logical danger. The world continues, even if the player must step away.
+- [Clarify that PvP or dangerous scenes may still result in logical outcomes, even if a player steps away]
+- [Consequences can be handled off-camera, but they are still real]
 
-This policy is **non-negotiable**. Player safety comes first. The Storytellers are empowered to make decisions that preserve that safety while maintaining continuity for everyone else at the table.
+> Example advanced rule:  
+> ## Character Removal & “Death Tax”
+> 
+> [Define your policy on one player permanently removing another character from play.]
+> 
+> - [Example: A portion of XP or resources may be deducted from the aggressor depending on context]
+> - [List the factors STs use to determine this, such as justification, tone, or escalation]
+> - [Reinforce that this is about protecting story value—not granting invincibility]
 
+## Black Carding / Pause Protocols
 
-### This Is Not a Way to Avoid Consequences
+[Describe how players can signal discomfort mid-scene.]
 
-This is **not** a loophole to avoid danger, escape conflict, or "pause" the game. It is a **creative fail-safe** that ensures we tell collaborative, respectful stories that adapt to real-life needs.
+- [List the method (verbal, hand sign, black card)]
+- [Outline the procedure: e.g., ST pauses scene, checks in, possibly adjusts or recesses]
+- [State that PvP cannot be avoided via pause alone, but discomfort will still be addressed]
 
-- If you’re uncomfortable with a theme, we’ll find another path.
-- If a situation is too intense, we’ll handle it discreetly.
-- If you step away from the story, it doesn’t freeze around your absence.
+## Conflict Resolution
 
-Consequences will still exist. They may simply be handled differently, behind the scenes, or off-camera. No one gets a free pass, but no one gets punished for caring for themselves, either.
+[Encourage private, respectful resolution when possible. Describe how players can escalate concerns to staff.]
 
-### Death Tax: When a Character Is Removed from Play
+1. [Attempt private resolution, if safe]
+2. [Bring to staff with a clear description of the concern]
+3. [Collaborate on a solution that protects the story and the community]
 
-Our game encourages deep roleplay and long-term storytelling. Removing another player’s character from the game—whether by death, banishment, or permanent harm—should be a **last resort**, not a shortcut to solve a conflict.
+## Final Notes
 
-As such, any time a **player character permanently removes another player character** from play, a **Death Tax** may be applied:
+[Wrap up with a statement about community priorities.]
 
-- The aggressor may lose **0% t0 25% of the XP total of the character they removed**, depending on circumstances and ST judgment.
-- This may include **XP deduction**, **loss of items, powers, or Influence**, or other narrative setbacks.
-- This applies to **death**, **banishment**, **permanent incapacitation**, or any similar outcome that makes a character unplayable in this game.
+> Example: “We are all here to tell powerful, sometimes difficult stories. Let’s ensure we care for one another as much as we care for the world we create.”
 
-The tax is based on:
+---
 
-- The aggressor’s **in-character justification** for the action.
-- The **effort made to resolve the issue through roleplay** before reaching for violence.
-- The **tone and conduct of the scene** (i.e., was it dramatic storytelling or out-of-game frustration?).
+## Example (DO NOT COPY DIRECTLY — FOR REFERENCE ONLY)
 
-**This policy exists to protect characters as story assets, not invulnerability.** Sometimes a character must die—but it should mean something.
-
-### TL;DR
-
-- Players may leave a scene at any time.
-- Storytellers will resolve the results for the character—and those results **may include death**.
-- Players who remove other characters from play may be taxed XP or resources depending on the circumstances.
-- The goal is always immersive consequence, not mechanical punishment.
-- Player safety comes first. The story comes next.
-
-Everyone deserves a game where they feel **welcome, valued, and safe**—even while playing monsters. We build that environment together, with care, flexibility, and respect for both the story and each other.
-
-## A Shared Love of the Game
-
-We come together because we love this world, this system, and the stories we create. That love is the foundation we return to when misunderstandings arise.
-
-If problems occur, we encourage players to:
-
-1. Address it **privately and respectfully** if they feel comfortable doing so.
-2. Bring it to staff for support and mediation if needed.
-3. Work toward resolution — **not escalation** — so that the game continues to be a place of enjoyment for everyone.
-
-Let’s build a chronicle where creativity thrives, friendships grow, and the story is as strong as the community that tells it.
-
-## Black Carding: Player Discomfort During Intense Scenes
-
-While our goal is to tell a story that embraces the darker, more challenging elements of the World of Darkness, we understand that there are some topics players may find uncomfortable or distressing.
-
-If such a topic arises, please notify the storyteller. You may ask them to step aside and let them know that the content is something you, as a player, are not comfortable with.
-
-> **At any point in time, a player may leave a scene due to the nature of the content.**
-
-If a player cannot find an in-character reason for their departure, their character may be placed under **"follow mode"** by the storyteller. This means:
-
-- The character remains present under storyteller control.
-- If combat occurs, the player will be asked to return to adjudicate their sheet.
-
-If a player does not need to fully leave the scene, but **needs a moment to pause**, they may request a break from the staff. In this case:
-
-- A **10-minute recess** will be called for the scene.
-- If the player is still unable to continue after the break, their character will be placed in "follow mode."
-
-In the event of a **PvP (player vs. player)** situation:
-
-- If a player is unable to continue, staff will speak with them privately to understand the concern and assist in resolving it.
-- **The 10-minute break or "follow mode" cannot be used to avoid PvP.**
-
-Our chronicle values both immersive storytelling and the well-being of our players. Safety and mutual respect come first.
+### What We Believe
+- Everyone deserves to feel safe and welcome.
+- In-character cruelty doesn’t excuse out-of-character disrespect.
+- This chronicle is built on teamwork, not antagonism.
